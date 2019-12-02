@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-07-23 14:24+0300\n"
+"PO-Revision-Date: 2018-07-23 14:24+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ../views/shortcode\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-SearchPath-0: calendar-consultations.php\n"
+
+#: calendar-consultations.php:6
+msgid "To organize"
+msgstr "Организовать"
+
+#: calendar-consultations.php:7
+msgid "a consultation"
+msgstr "консультацию"
+
+#: calendar-consultations.php:12
+msgid "Choose the type of meeting that is right for you"
+msgstr "Выберите тип встречи, подходящий для вас"
+
+#: calendar-consultations.php:28
+msgid ""
+"Select the date and time for the meeting. Fill the fields in the contact form"
+msgstr ""
+"Выберите дату и время проведения встречи. Заполните поля в контактной форме"
+
+#: calendar-consultations.php:34
+msgid "You selected the date"
+msgstr "Вы выбрали дату"
+
+#: calendar-consultations.php:36
+msgid "Time"
+msgstr "Время"
+
+#: calendar-consultations.php:47
+msgid "Save appointment"
+msgstr "Сохранить встречу"
